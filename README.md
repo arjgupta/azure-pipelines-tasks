@@ -6,7 +6,7 @@ This repo contains the tasks that are provided out-of-the-box with Azure Pipelin
 
 This provides open examples on how we write tasks which will help you write other tasks which can be uploaded to your account or server.  See **Writing Tasks** below.
 
-![MarsScore2]
+![MarsScore3]
 
 ## Status
 |   | MARS Score |
@@ -15,7 +15,7 @@ This provides open examples on how we write tasks which will help you write othe
 |![macOS](docs/res/apple_med.png) **macOS**|[![Build & Test][macOS-build-badge]][macOS-build]| 
 |![Linux](docs/res/linux_med.png) **Linux**|[![Build & Test][linux-build-badge]][linux-build]|
 
-[MarsScore2]: https://repo-badge-python.azurewebsites.net/api/HttpTrigger?repo=azur
+[MarsScore3]: https://repo-badge-python.azurewebsites.net/api/HttpTrigger?repo=az
 [win-build-badge]: https://img.shields.io/static/v1?label=mars-score&message=31&color=red
 [win-build]: https://img.shields.io/static/v1?label=mars-score&message=31&color=red
 
