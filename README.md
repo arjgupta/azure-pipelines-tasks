@@ -13,8 +13,8 @@ This provides open examples on how we write tasks which will help you write othe
 |![macOS](docs/res/apple_med.png) **macOS**|[![Build & Test][macOS-build-badge]][macOS-build]| 
 |![Linux](docs/res/linux_med.png) **Linux**|[![Build & Test][linux-build-badge]][linux-build]|
 
-[win-build-badge]: https://img.shields.io/badge/abc-def-red
-[win-build]: https://img.shields.io/badge/abc-def-red
+[win-build-badge]: https://img.shields.io/static/v1?label=mars-score&message=31&color=red
+[win-build]: https://img.shields.io/static/v1?label=mars-score&message=31&color=red
 
 [macOS-build-badge]: https://dev.azure.com/mseng/PipelineTools/_apis/build/status/azure-pipelines-tasks.ci-macos
 [macOS-build]: https://dev.azure.com/mseng/PipelineTools/_build/latest?definitionId=7635
