@@ -16,11 +16,11 @@ This provides open examples on how we write tasks which will help you write othe
 [win-build-badge]: https://img.shields.io/static/v1?label=mars-score&message=31&color=red
 [win-build]: https://img.shields.io/static/v1?label=mars-score&message=31&color=red
 
-[macOS-build-badge]: https://dev.azure.com/mseng/PipelineTools/_apis/build/status/azure-pipelines-tasks.ci-macos
-[macOS-build]: https://dev.azure.com/mseng/PipelineTools/_build/latest?definitionId=7635
+[macOS-build-badge]: https://img.shields.io/static/v1?label=mars-score&message=45&color=yellowgreen
+[macOS-build]: https://img.shields.io/static/v1?label=mars-score&message=45&color=yellowgreen
 
-[linux-build-badge]: https://dev.azure.com/mseng/PipelineTools/_apis/build/status/azure-pipelines-tasks.ci-linux
-[linux-build]: https://dev.azure.com/mseng/PipelineTools/_build/latest?definitionId=7636
+[linux-build-badge]: https://img.shields.io/static/v1?label=mars-score&message=80&color=green
+[linux-build]: https://img.shields.io/static/v1?label=mars-score&message=80&color=green
 
 ## How to Use Tasks
 
