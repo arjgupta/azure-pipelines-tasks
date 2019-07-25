@@ -6,8 +6,9 @@ This repo contains the tasks that are provided out-of-the-box with Azure Pipelin
 
 This provides open examples on how we write tasks which will help you write other tasks which can be uploaded to your account or server.  See **Writing Tasks** below.
 
+![MarsScore]
 
-## Status ![MarsScore]
+## Status
 |   | MARS Score |
 |---|:-----:|
 |![Win](docs/res/win_med.png) **Windows**|[![Build & Test][win-build-badge]][win-build]| 
