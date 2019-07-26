@@ -1,4 +1,5 @@
-# Azure Pipelines Tasks ![MarsScore6]
+![MarsScore6]
+# Azure Pipelines Tasks
 ![Tasks](/taskbanner.png "Tasks")
 [MarsScore6]: https://repo-badge-python.azurewebsites.net/api/HttpTrigger?repo=azadadfdfadsfsdf
 
