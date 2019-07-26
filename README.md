@@ -6,13 +6,14 @@ This repo contains the tasks that are provided out-of-the-box with Azure Pipelin
 
 This provides open examples on how we write tasks which will help you write other tasks which can be uploaded to your account or server.  See **Writing Tasks** below.
 
-## Status
+## Status ![mars]
 |   | Build & Test |
 |---|:-----:|
 |![Win](docs/res/win_med.png) **Windows**|[![Build & Test][win-build-badge]][win-build]| 
 |![macOS](docs/res/apple_med.png) **macOS**|[![Build & Test][macOS-build-badge]][macOS-build]| 
 |![Linux](docs/res/linux_med.png) **Linux**|[![Build & Test][linux-build-badge]][linux-build]|
 
+[mars]: https://repo-badge-python.azurewebsites.net/api/HttpTrigger?repo=azadadfdfadsfsdf
 [win-build-badge]: https://dev.azure.com/mseng/PipelineTools/_apis/build/status/azure-pipelines-tasks.ci-windows
 [win-build]: https://dev.azure.com/mseng/PipelineTools/_build/latest?definitionId=7634
 
