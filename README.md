@@ -1,29 +1,11 @@
-# Azure Pipelines Tasks
+# Azure Pipelines Tasks ![MarsScore6]
 ![Tasks](/taskbanner.png "Tasks")
+[MarsScore6]: https://repo-badge-python.azurewebsites.net/api/HttpTrigger?repo=azadadfdfadsfsdf
 
 ## Overview
 This repo contains the tasks that are provided out-of-the-box with Azure Pipelines and Team Foundation Server.
 
 This provides open examples on how we write tasks which will help you write other tasks which can be uploaded to your account or server.  See **Writing Tasks** below.
-
-![MarsScore6]
-
-## Status
-|   | MARS Score |
-|---|:-----:|
-|![Win](docs/res/win_med.png) **Windows**|[![Build & Test][win-build-badge]][win-build]| 
-|![macOS](docs/res/apple_med.png) **macOS**|[![Build & Test][macOS-build-badge]][macOS-build]| 
-|![Linux](docs/res/linux_med.png) **Linux**|[![Build & Test][linux-build-badge]][linux-build]|
-
-[MarsScore6]: https://repo-badge-python.azurewebsites.net/api/HttpTrigger?repo=azadadfdfadsfsdf
-[win-build-badge]: https://img.shields.io/static/v1?label=mars-score&message=31&color=red
-[win-build]: https://img.shields.io/static/v1?label=mars-score&message=31&color=red
-
-[macOS-build-badge]: https://img.shields.io/static/v1?label=mars-score&message=45&color=yellowgreen
-[macOS-build]: https://img.shields.io/static/v1?label=mars-score&message=45&color=yellowgreen
-
-[linux-build-badge]: https://img.shields.io/static/v1?label=mars-score&message=80&color=green
-[linux-build]: https://img.shields.io/static/v1?label=mars-score&message=80&color=green
 
 ## How to Use Tasks
 
